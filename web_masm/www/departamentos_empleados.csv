@@ -1,0 +1,8 @@
+nombre_empleado,puesto_empleado,nombre_departamento
+"Scott Tanner","Director de Generación de Demanda",Marketing
+"Margaret Lane","Vicepresidente de Marketing",Marketing
+"Dave Smith","Gerente de Marketing de Producto",Marketing
+"Ted Connors","Ingeniera de Software",Ingeniería
+"Julie Jones","Ingeniera de Software",Ingeniería
+NULL,NULL,Contabilidad
+NULL,NULL,Ventas

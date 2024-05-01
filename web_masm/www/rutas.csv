@@ -1,0 +1,11 @@
+usertype,route,num_trips,duration
+NULL,NULL,16468,NULL
+Customer,"Central Park S & 6 Ave to Central Park S & 6 Ave",250,47.24
+Customer,"Grand Army Plaza & Central Park S to Grand Army Plaza & Central Park S",84,57.18
+Customer,"Centre St & Chambers St to Centre St & Chambers St",73,31.29
+Customer,"Grand Army Plaza & Central Park S to Central Park S & 6 Ave",50,64.67
+Customer,"Broadway & W 60 St to Broadway & W 60 St",48,48.09
+Customer,"Centre St & Chambers St to Cadman Plaza E & Tillary St",46,26.19
+Customer,"Old Fulton St to Centre St & Chambers St",42,30.10
+Customer,"12 Ave & W 40 St to West St & Chambers St",38,25.69
+Customer,"Old Fulton St to Old Fulton St",36,27.18
